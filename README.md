@@ -8,11 +8,11 @@ Files named *Influence_Model.py* and *Influence_Model_100.py* contain the core c
 
 Files named *Run_model.py* and *Run_model_100.py* are the two main scripts that import the files mentioned above in order to run the simulation. In these scripts you can manipulate:
 
-Initial agents' value system
-Institutional influence
-Agents' memory
-Agents' biases
-Number of simulations
+- Initial agents' value system
+- Institutional influence
+- Agents' memory
+- Agents' biases
+- Number of simulations
 
 By running the model you will obtain a csv file containing the entropy of opinions produced at each time step for each of the conditions examined. Furthermore, you can use the model to investigate the impact of different variables on other alpha indices of diversity.
 
