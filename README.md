@@ -18,5 +18,4 @@ By running the model you will obtain a csv file containing the entropy of opinio
 
 Please do not hesitate to contact me if you have any questions.
 ---
----
 Model_III.py and Run_Model_III.py corresponds to the latest versions of the model.
