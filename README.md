@@ -17,5 +17,6 @@ Files named *Run_model.py* and *Run_model_100.py* are the two main scripts that 
 By running the model you will obtain a csv file containing the entropy of opinions produced at each time step for each of the conditions examined. Furthermore, you can use the model to investigate the impact of different variables on other alpha indices of diversity.
 
 Please do not hesitate to contact me if you have any questions.
----
+
+Update 1 Aug 2021
 Model_III.py and Run_Model_III.py corresponds to the latest versions of the model.
