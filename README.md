@@ -2,7 +2,7 @@
 Model to explore how opinion dynamics evolve under institutions that aggregate information using proportional representation
 
 In this repository you can find the Python scripts to implement my agent-based model of opinion dynamics as described in:
-Segovia-Martin, J., Tamariz, M. (2020). Institutional influence and value systems: a model of opinion dynamics mediated by proportional representation (Under review).
+Segovia-Martin, J., Tamariz, M. (2020). Synchronising institutions and value systems: a model of opinion dynamics mediated by proportional representation
 
 Files named *Influence_Model.py* and *Influence_Model_100.py* contain the core classes and functions needed to run the model. The script named with the 100 is coded for simulations of 100 agents, while the one without it is coded for simulations with 10 agents.
 
