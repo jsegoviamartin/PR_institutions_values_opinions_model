@@ -1,8 +1,6 @@
 # PR_institutions_values_opinions_model
 
-[![GitHub license](https://img.shields.io/github/license/jsegoviamartin/PR_institutions_values_opinions_model)](https://github.com/jsegoviamartin/PR_institutions_values_opinions_model/blob/main/LICENSE)
-
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/jsegoviamartin/PR_institutions_values_opinions_model?color=green)
+[![GitHub license](https://img.shields.io/github/license/jsegoviamartin/PR_institutions_values_opinions_model)](https://github.com/jsegoviamartin/PR_institutions_values_opinions_model/blob/main/LICENSE) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/jsegoviamartin/PR_institutions_values_opinions_model?color=green)
 
 Model to explore how opinion dynamics evolve under institutions that aggregate information using proportional representation
 
