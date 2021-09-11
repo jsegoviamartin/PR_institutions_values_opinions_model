@@ -19,3 +19,5 @@ By running the model you will obtain a csv file containing the entropy of opinio
 Please do not hesitate to contact me if you have any questions.
 
 Update 1 Aug 2021: Model_III.py and Run_Model_III.py correspond to the latest versions of the model.
+
+https://img.shields.io/github/license/jsegoviamartin/PR_institutions_values_opinions_model
