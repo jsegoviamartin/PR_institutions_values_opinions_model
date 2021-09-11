@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/jsegoviamartin/PR_institutions_values_opinions_model)](https://github.com/jsegoviamartin/PR_institutions_values_opinions_model/blob/main/LICENSE) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/jsegoviamartin/PR_institutions_values_opinions_model?color=green)
 
-Model to explore how opinion dynamics evolve under institutions that aggregate information using proportional representation
+Model to explore how opinion dynamics evolve under institutions that aggregate information using proportional representation.
 
 In this repository you can find the Python scripts to implement my agent-based model of opinion dynamics as described in:
 Segovia-Martin, J., Tamariz, M. (2020). Synchronising institutions and value systems: a model of opinion dynamics mediated by proportional representation
